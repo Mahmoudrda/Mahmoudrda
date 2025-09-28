@@ -16,22 +16,22 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 ## 🛠️ Core Technologies & Tools
 
 <details open>
-<summary><b>🏷️ Tag Management & Analytics</b></summary>
+<summary><b>Tag Management & Analytics</b></summary>
 
 <br>
 
 **Tag Management Systems:**
 <div align="center">
-<img src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" width="60" height="60" />
-<img src="https://www.svgrepo.com/show/354439/tealium.svg" width="60" height="60" />
-<img src="https://www.svgrepo.com/show/373595/firebase.svg" width="60" height="60" />
+  <img src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/354439/tealium.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="60" height="60" />
 </div>
 
 **Analytics Tools:**
 <div align="center">
-<img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="60" height="60" />
-<img src="https://www.svgrepo.com/show/353883/hotjar.svg" width="60" height="60" />
-<img src="https://cdn.worldvectorlogo.com/logos/search-console-icon-2025-1.svg" width="60" height="60" />
+  <img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/iduokgC8Q7/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667808156881" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/search-console-icon-2025-1.svg" width="60" height="60" />
 </div>
 
 <br>
@@ -52,16 +52,13 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 </details>
 
 <details open>
-<summary><b>💻 Frontend Development</b></summary>
-
-<br>
+<summary><b> Frontend Development</b></summary>
 
 <div align="center">
 
-<img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50" height="50" />
-<br>
-<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50" height="50" />
 
 </div>
 
@@ -72,7 +69,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 ---
 
-## 📋 Measurement Framework Schedule
+## Measurement Framework Timeline
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Success Animation"/>
@@ -114,7 +111,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 - **Tag Management Setup**: GTM/Tealium configuration
 - **Data Layer Development**: Custom event tracking
 - **Analytics Configuration**: GA4/Firebase setup and best practices
-- **DataLayer implementation Guide**: Guide for the developers to implement the dataLayer
+- **DataLayer Implementation Guide**: Guide for the developers to implement the dataLayer
 
 </details>
 
@@ -311,7 +308,7 @@ graph TB
 ### 🏆 Credentials and Certifications
 <div align="center">
 
-| <a href="https://skillshop.credential.net/c6265ae7-667b-4ee3-9465-214223c9b87b#acc.Y5m8QFh6" target="_blank"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" alt="GA4" height="50"/></a> | <a href="https://drive.google.com/file/d/1t7c_WPJ3UAgWPa2fQ9Y9dcS8Bd1UDpW8/view?usp=drive_link" target="_blank"><img src="https://www.svgrepo.com/show/354439/tealium.svg" alt="Tealium" height="50"/></a> | <a href="https://verify.skilljar.com/c/787crxu9qopu" target="_blank"><img src="https://www.svgrepo.com/show/353883/hotjar.svg" alt="Hotjar" height="50"/></a> |
+| <a href="https://skillshop.credential.net/c6265ae7-667b-4ee3-9465-214223c9b87b#acc.Y5m8QFh6" target="_blank"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" alt="GA4" height="50"/></a> | <a href="https://drive.google.com/file/d/1t7c_WPJ3UAgWPa2fQ9Y9dcS8Bd1UDpW8/view?usp=drive_link" target="_blank"><img src="https://www.svgrepo.com/show/354439/tealium.svg" alt="Tealium" height="50"/></a> | <a href="https://verify.skilljar.com/c/787crxu9qopu" target="_blank"><img src="https://cdn.brandfetch.io/iduokgC8Q7/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667808156881" alt="Hotjar" height="50"/></a> |
 |:---:|:---:|:---:|
 | **Google Analytics 4<br>Certified** | **Tealium<br>Certified** | **Hotjar<br>Certified** |
 
@@ -320,30 +317,26 @@ graph TB
 
 </div>
 
-###  Book a Free Discovery Call
+###  Get a Free Consultation
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
   <h3 style="color: white; margin-bottom: 15px;">📊 Get Your Free Analytics Health Check</h3>
-  <p style="color: #f0f0f0; margin-bottom: 25px; font-size: 16px;">
-    Find out what's broken, what's missing, and how to fix it.<br>
-    <em>No sales pitch, just actionable insights in 48 hours.</em>
-  </p>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGbzk5FSw2pc66xEWmr78bl5d4bOi9Wj9YApt7CvrhP_K0ng/viewform?usp=dialog" target="_blank">
-    <img src="https://img.shields.io/badge/🔍%20Start%20My%20Free%20Analytics%20Audit%20→-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Start Your Free Analytics Audit" height="60"/>
+    <img src="https://img.shields.io/badge/🔍%20Get%20a%20Free%20Analytics%20Consultation%20→-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Get a Free Consultation" height="60"/>
   </a>
 <br><br>
   <small style="color: #e0e0e0;">
-    ✅ 5-minute form • ✅ Detailed report in 72hrs • ✅ Zero commitment
+    ✅ 5-minute form • ✅ Detailed report in 72hrs • ✅ Zero commitment • ✅ No access required
   </small>
 </div>
 
 ###  Or Connect Directly
 
 <a href="https://www.linkedin.com/in/mahmoud-reda-522aa1215/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mahmoud.reda.analytics@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+  <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" height="40"/>
 </a>
 
 </div>

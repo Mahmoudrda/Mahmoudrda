@@ -154,9 +154,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ No visibility into e-commerce funnel & user journey | ✅ GTM & DataLayer implementation for GA4 tracking | 📈 **+65%** funnel visibility |
-| ❌ No item performance tracking | ✅ Enhanced e-commerce events for product insights | 📊 **+80%** item-level data accuracy |
-| ❌ No conversion tracking in Meta ad platforms | ✅ Media pixels via GTM for cross-platform optimization | 💰 **+45%** ROAS improvement |
+| No visibility into e-commerce funnel & user journey | GTM & DataLayer implementation for GA4 tracking | Instant e-commerce funnel visibility |
+| No item performance tracking | Enhanced e-commerce events for product insights | item-level insights |
+| No conversion tracking in Meta ad platforms | Media pixels via GTM for cross-platform optimization | Conversions sent to ad paltforms to optimize ROAS |
 
 </div>
 
@@ -195,9 +195,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ High form abandonment rate & no lead tracking | ✅ GTM & DataLayer for form events & user journey optimization | 📈 **+52%** form completion rate |
-| ❌ Incorrect marketing attributions | ✅ Enhanced tracking for accurate attribution modeling | 🎯 **+73%** attribution accuracy |
-| ❌ No conversion tracking in TikTok ad platforms | ✅ Media pixels via GTM for campaign optimization | 💲 **+38%** ad spend efficiency |
+| High form abandonment rate & no lead tracking | GTM & DataLayer for form events & user journey optimization | Visibility on drop-off points in the user journey |
+| Incorrect marketing attributions | Custom channel groupping configurations | Visibility on different marketing channels performance |
+| No conversion tracking in TikTok ad platforms | Media pixels via GTM for campaign optimization | Conversions sent to TikTok to optimize ad spend |
 
 </div>
 
@@ -231,9 +231,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ Data loss from ad blockers & cookie limitations | ✅ GTM Server-side tagging with Cloud Run instance | 📊 **+85%** data capture accuracy |
-| ❌ Discrepancy between GA4, ad platforms & backend | ✅ First-party context tracking to bypass browser constraints | 🎯 **+67%** data consistency |
-| ❌ Inaccurate conversion data to ad platforms | ✅ Conversion API (CAPI) for direct API-based tracking | 💰 **+43%** campaign performance |
+| Data loss from ad blockers & cookie limitations | GTM Server-side tagging with Cloud Run instance | Mitigated ad blocker impact and browser constraints |
+| Discrepancy between GA4, ad platforms & backend | First-party context tracking to bypass browser constraints | Reduced the discrepancies to a reasonable 2–5%. |
+| Inaccurate conversion data to ad platforms | Conversion API (CAPI) for direct API-based tracking | More accurate conversion tracking in ad platforms |
 
 </div>
 

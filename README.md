@@ -140,8 +140,12 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 **Client:** Major Online Retailer 
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/2F81F7/FFFFFF?text=E-commerce+Analytics+Dashboard+Screenshot" alt="E-commerce Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
-  <p><em>📸 Before/After Analytics Dashboard - Replace with actual screenshot</em></p>
+  <img src="GTM_config.jpg" alt="E-commerce Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Google Tag Manager Configurations</em></p>
+</div>
+<div align="center">
+  <img src="GA4_items.jpg" alt="E-commerce Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Google Analytics 4 "E-commerce Purchases"</em></p>
 </div>
 
 **Challenge → Solution → Result**

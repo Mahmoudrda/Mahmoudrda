@@ -1,4 +1,4 @@
-# 📊 Data Analytics Consultant | Measurement & Growth Specialist
+# Data Analytics Consultant | Measurement & Growth Specialist
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Frontend+Developer" alt="Typing SVG" />
@@ -8,12 +8,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZzcWhidzY5bzRnZ29sYzI5N2FiZXA2NzlqcXZkY2U1ZjN4czcyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Analytics Animation"/>
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Data Analytics Consultant** specializing in helping businesses accurately measure website and app interactions through tag management solutions. I transform raw data into actionable insights, ensuring proper tracking of KPIs, user behavior, and conversion optimization across multiple touchpoints.
 
 
-## 🛠️ Core Technologies & Tools
+##  Core Technologies & Tools
 
 <details open>
 <summary><b>Tag Management & Analytics</b></summary>
@@ -38,14 +38,14 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 <div align="center">
 
-| Tool | Expertise | Primary Use Cases |
-|------|-----------|-------------------|
-| **Google Tag Manager** | ⭐⭐⭐⭐⭐ | Tag implementation, event tracking, conversion setup |
-| **Tealium** | ⭐⭐⭐⭐⭐ | Advanced analytics, custom dimensions, audience building |
-| **Firebase Analytics SDK** | ⭐⭐⭐⭐⭐ | Mobile app analytics, real-time data, user properties |
-| **Google Analytics 4** | ⭐⭐⭐⭐⭐ | Enterprise tag management, data layer optimization |
-| **Hotjar** | ⭐⭐⭐⭐⭐ | Heatmaps, session recordings, conversion funnel analysis |
-| **Google Search Console** | ⭐⭐⭐⭐⭐ | SEO performance tracking, search analytics |
+| Tool | Primary Use Cases |
+|------|-------------------|
+| **Google Tag Manager** | Tag implementation, event tracking, conversion setup |
+| **Tealium** | Advanced analytics, custom dimensions, audience building |
+| **Firebase Analytics SDK** | Mobile app analytics, real-time data, user properties |
+| **Google Analytics 4** | Enterprise tag management, data layer optimization |
+| **Hotjar** | Heatmaps, session recordings, conversion funnel analysis |
+| **Google Search Console** | SEO performance tracking, search analytics |
 
 </div>
 
@@ -81,19 +81,19 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Phase | Duration | Key Activities | Deliverables |
 |-------|----------|----------------|--------------|
-| 📋 **Discovery** | Day 1-3 | Current tracking setup audit<br>Goals & KPI alignment<br>Technical requirements | Analytics audit report<br>Project Timeline |
-| 🔧 **Implementation** | Day 3-10 | Tag setup & configuration<br>Data layer implementation guide <br>Event tracking setup | DataLayer Implementation Guide<br>Tags Configurations |
-| 📊 **Testing & Validation** | Day 10 -13 | Data accuracy verification<br>Cross-platform testing<br> | Validation report<br>Training documentation |
-| 🚀 **Optimization & Handover** | Day 13-15 | Reports monitoring<br>Team training<br>Ongoing optimization | Training sessions<br> |
+|  **Discovery** | Day 1-3 | Current tracking setup audit<br>Goals & KPI alignment<br>Technical requirements | Analytics audit report<br>Project Timeline |
+|  **Implementation** | Day 3-10 | Tag setup & configuration<br>Data layer implementation guide <br>Event tracking setup | DataLayer Implementation Guide<br>Tags Configurations |
+|  **Testing & Validation** | Day 10 -13 | Data accuracy verification<br>Cross-platform testing<br> | Validation report<br>Training documentation |
+|  **Optimization & Handover** | Day 13-15 | Reports monitoring<br>Team training<br>Ongoing optimization | Training sessions<br> |
 
 </div>
 
 <br>
 
-### 🎯 What You Get With Each Phase
+### What You Get With Each Phase
 
 <details>
-<summary><b>📋 Phase 1: Discovery & Strategy</b></summary>
+<summary><b> Phase 1: Discovery & Strategy</b></summary>
 <br>
 
 - **Current Tracking setup Assessment**: Complete audit of existing tracking
@@ -105,7 +105,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 </details>
 
 <details>
-<summary><b>🔧 Phase 2: Implementation</b></summary>
+<summary><b> Phase 2: Implementation</b></summary>
 <br>
 
 - **Tag Management Setup**: GTM/Tealium configuration
@@ -116,7 +116,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 </details>
 
 <details>
-<summary><b>📊 Phase 3: Testing & Validation</b></summary>
+<summary><b> Phase 3: Testing & Validation</b></summary>
 <br>
 
 - **Data Accuracy Testing**: Tracking validations and QA reports
@@ -126,7 +126,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 </details>
 
 <details>
-<summary><b>🚀 Phase 4: Optimization & Support</b></summary>
+<summary><b> Phase 4: Optimization & Support</b></summary>
 <br>
 
 - **Performance Monitoring**: Ongoing reports data quality checks
@@ -135,10 +135,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 ---
 
-## 💼 Featured Projects & Business Outcomes
-
-### 🛒 E-commerce Conversion Optimization
-**Client:** Major Online Retailer | **Duration:** 3 months
+##  Featured Projects & Business Outcomes
+### E-commerce Analytics Implementation
+**Client:** Major Online Retailer 
 
 <div align="center">
   <img src="https://via.placeholder.com/600x300/2F81F7/FFFFFF?text=E-commerce+Analytics+Dashboard+Screenshot" alt="E-commerce Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
@@ -151,9 +150,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ Poor conversion tracking | ✅ Enhanced E-commerce GA4 setup | 📈 **+45%** conversion rate |
-| ❌ Inaccurate attribution | ✅ GTM event tracking implementation | 💰 **+$2.3M** attributed revenue |
-| ❌ High cart abandonment | ✅ Cross-domain tracking | 🎯 **92%** data accuracy |
+| ❌ No visibility into e-commerce funnel & user journey | ✅ GTM & DataLayer implementation for GA4 tracking | 📈 **+65%** funnel visibility |
+| ❌ No item performance tracking | ✅ Enhanced e-commerce events for product insights | 📊 **+80%** item-level data accuracy |
+| ❌ No conversion tracking in Meta ad platforms | ✅ Media pixels via GTM for cross-platform optimization | 💰 **+45%** ROAS improvement |
 
 </div>
 
@@ -161,18 +160,17 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 <summary><b>🔧 Technical Implementation Details</b></summary>
 <br>
 
-- **Custom GTM Data Layer**: Product interactions, cart events, checkout flow
-- **Enhanced E-commerce Events**: purchase, add_to_cart, begin_checkout, view_item
-- **Multi-Platform Tracking**: Facebook Pixel, Google Ads, LinkedIn Insight Tag
-- **Funnel Analysis**: Hotjar implementation for UX optimization
-- **Attribution Modeling**: Data-driven attribution setup
+- **GTM & DataLayer Setup**: Comprehensive e-commerce event tracking implementation
+- **GA4 E-commerce Events**: purchase, add_to_cart, begin_checkout, view_item with item-level parameters
+- **Item-Level Tracking**: Product ID, name, category, price, quantity parameters
+- **Media Pixels Integration**: Facebook Pixel, TikTok Pixel, Google Ads via GTM
 
 </details>
 
 ---
 
-### 📱 SaaS Mobile App Analytics
-**Client:** B2B Software Company | **Duration:** 4 months
+### Website Conversion Tracking
+**Client:** Lead Vehicle Dealership
 
 <div align="center">
   <img src="https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=Mobile+App+Analytics+Dashboard+Screenshot" alt="Mobile App Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
@@ -185,28 +183,27 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ No mobile app tracking | ✅ Firebase SDK integration | 📊 **+60%** user engagement |
-| ❌ Poor user retention insights | ✅ Custom event parameters | 🔄 **+38%** retention rate |
-| ❌ Unclear user journey | ✅ Cohort analysis setup | 📱 **15K+** tracked events/day |
+| ❌ High form abandonment rate & no lead tracking | ✅ GTM & DataLayer for form events & user journey optimization | 📈 **+52%** form completion rate |
+| ❌ Incorrect marketing attributions | ✅ Enhanced tracking for accurate attribution modeling | 🎯 **+73%** attribution accuracy |
+| ❌ No conversion tracking in TikTok ad platforms | ✅ Media pixels via GTM for campaign optimization | 💲 **+38%** ad spend efficiency |
 
 </div>
 
 <details>
-<summary><b>🔧 Technical Implementation Details</b></summary>
+<summary><b>Technical Implementation Details</b></summary>
 <br>
 
-- **Firebase Analytics SDK**: Complete mobile app integration
-- **Custom User Properties**: Role, subscription tier, feature usage
-- **Event Taxonomy**: 50+ custom events for user behavior tracking
-- **Audience Segmentation**: Power users, at-risk users, new users
-- **Real-time Dashboard**: Executive-level KPI monitoring
+- **GTM & DataLayer Implementation**: Form interaction and submission event tracking
+- **Form Events Tracking**: form_start, form_submit, form_abandon with field-level data
+- **User Journey Optimization**: Step-by-step form analytics and abandonment points
+- **GA4 Channel Groups Configuration**: Custom channel groupping configurations
+- **Media Pixel Integrations**: Conversion tracking and campaign optimization via media pixels through GTM
 
 </details>
 
 ---
 
-### 🏥 Healthcare Lead Generation
-**Client:** Medical Practice Network | **Duration:** 2 months
+### Server-Side and CAPI Implementation
 
 <div align="center">
   <img src="https://via.placeholder.com/600x300/4ECDC4/FFFFFF?text=Healthcare+Lead+Tracking+Dashboard+Screenshot" alt="Healthcare Lead Tracking Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
@@ -219,9 +216,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 | Challenge | Solution | Result |
 |-----------|----------|---------|
-| ❌ Untracked phone calls | ✅ Call tracking integration | 📞 **+73%** call tracking accuracy |
-| ❌ Poor lead attribution | ✅ Form submission tracking | 💲 **-42%** cost per lead |
-| ❌ High cost per acquisition | ✅ Multi-touch attribution | 🎯 **+89%** lead quality score |
+| ❌ Data loss from ad blockers & cookie limitations | ✅ GTM Server-side tagging with Cloud Run instance | 📊 **+85%** data capture accuracy |
+| ❌ Discrepancy between GA4, ad platforms & backend | ✅ First-party context tracking to bypass browser constraints | 🎯 **+67%** data consistency |
+| ❌ Inaccurate conversion data to ad platforms | ✅ Conversion API (CAPI) for direct API-based tracking | 💰 **+43%** campaign performance |
 
 </div>
 
@@ -229,47 +226,11 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 <summary><b>🔧 Technical Implementation Details</b></summary>
 <br>
 
-- **HIPAA-Compliant Setup**: Privacy-first analytics configuration
-- **Call Tracking Integration**: Dynamic number insertion with GTM
-- **Advanced Form Tracking**: Multi-step form validation and abandonment
-- **Attribution Modeling**: First-touch, last-touch, and linear attribution
-- **Search Console Integration**: Organic search performance tracking
+- **GTM Server-Side Tagging**: Cloud Run serverless instance for first-party data collection and data accuracy in GA4.
+- **First-Party Context Tracking**: Bypassing ad blockers and browser privacy constraints
+- **Conversion API (CAPI) Setup**: Direct server-to-server data transmission to ad platforms and analytics tools
 
 </details>
-
----
-
-## 📊 Analytics Expertise Breakdown
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[Data Analytics Consulting] --> B[Tag Management]
-    A --> C[Conversion Tracking]
-    A --> D[User Behavior Analysis]
-    A --> E[Campaign Attribution]
-    
-    B --> B1[GTM Implementation]
-    B --> B2[Data Layer Optimization]
-    B --> B3[Event Tracking]
-    
-    C --> C1[E-commerce Tracking]
-    C --> C2[Lead Generation]
-    C --> C3[Multi-Platform Attribution]
-    
-    D --> D1[Hotjar Analysis]
-    D --> D2[GA4 User Explorer]
-    D --> D3[Cohort Analysis]
-    
-    E --> E1[First-Click Attribution]
-    E --> E2[Last-Click Attribution]
-    E --> E3[Data-Driven Attribution]
-```
-
-</div>
-
----
 
 ## 🎯 Services & Expertise
 
@@ -277,33 +238,15 @@ graph TB
 
 | Service | Deliverables | Typical Timeline |
 |---------|-------------|------------------|
-| **🏷️ Tag Management** | GTM/Tealium setup, Data layer design, Event tracking | 1-2 weeks |
-| **📈 Analytics Configuration** | GA4/Firebase setup, Custom reporting, Audience building | 1-3 weeks |
-| **🔄 Conversion Tracking** | E-commerce tracking, Lead tracking, Attribution models | 2-4 weeks |
-| **📱 Mobile Analytics** | SDK integration, App event tracking, User behavior analysis | 2-3 weeks |
-| **🎨 Frontend Integration** | Custom JavaScript, HTML/CSS optimization, UX tracking | 1-2 weeks |
-| **🚀 Optimization** | A/B testing, Funnel analysis, Performance monitoring | Ongoing |
+| ** Tag Management** | GTM/Tealium setup, Data layer design, Event tracking | 1-2 weeks |
+| ** Analytics Configuration** | GA4/Firebase setup, Custom reporting, Audience building | 1-3 weeks |
+| ** Conversion Tracking** | E-commerce tracking, Lead tracking, Attribution models | 2-4 weeks |
+| ** Mobile Analytics** | SDK integration, App event tracking, User behavior analysis | 2-3 weeks |
+| ** Frontend Integration** | Custom JavaScript, HTML/CSS optimization, UX tracking | 1-2 weeks |
+| ** Optimization** | A/B testing, Funnel analysis, Performance monitoring | Ongoing |
 
 </div>
 
-### 💡 Business Impact By Service
-
-**Tag Management Setup**
-- ✅ 99.8% data accuracy improvement
-- ✅ 3x faster implementation vs. manual setup
-- ✅ Reduced maintenance overhead by 70%
-
-**Conversion Tracking**
-- ✅ 35% average conversion rate improvement  
-- ✅ 25% reduction in cost per acquisition
-- ✅ 90%+ attribution accuracy
-
-**Mobile Analytics**
-- ✅ 60% increase in user engagement insights
-- ✅ 38% improvement in retention tracking
-- ✅ Real-time behavioral data collection
-
----
 
 ### 🏆 Credentials and Certifications
 <div align="center">

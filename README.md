@@ -173,8 +173,16 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 **Client:** Lead Vehicle Dealership
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=Mobile+App+Analytics+Dashboard+Screenshot" alt="Mobile App Analytics Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
-  <p><em>📸 Firebase Analytics Dashboard - Replace with actual screenshot</em></p>
+  <img src="Lead GTM.jpg" alt="GTM screen" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Google Tag Manager Configurations</em></p>
+</div>
+<div align="center">
+  <img src="Lead GA4.jpg" alt="GA4 screen" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em> Google Analytics 4 Dashboard</em></p>
+</div>
+<div align="center">
+  <img src="Lead pixel.jpg" alt="pixel screen" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Pixels Implementation</em></p>
 </div>
 
 **Challenge → Solution → Result**

@@ -218,10 +218,13 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 ### Server-Side and CAPI Implementation
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/4ECDC4/FFFFFF?text=Healthcare+Lead+Tracking+Dashboard+Screenshot" alt="Healthcare Lead Tracking Dashboard" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
-  <p><em>📸 Lead Attribution Dashboard - Replace with actual screenshot</em></p>
+  <img src="ssgtm.png" alt="Server-side Google Tag Manager" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Server-side Google Tag Manager</em></p>
 </div>
-
+<div align="center">
+  <img src="CAPI.jpg" alt="Conversion API Implementation" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
+  <p><em>Conversion API Implementation (CAPI)</em></p>
+</div>
 **Challenge → Solution → Result**
 
 <div align="center">
@@ -235,7 +238,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 </div>
 
 <details>
-<summary><b>🔧 Technical Implementation Details</b></summary>
+<summary><b>Technical Implementation Details</b></summary>
 <br>
 
 - **GTM Server-Side Tagging**: Cloud Run serverless instance for first-party data collection and data accuracy in GA4.
@@ -243,22 +246,6 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 - **Conversion API (CAPI) Setup**: Direct server-to-server data transmission to ad platforms and analytics tools
 
 </details>
-
-## 🎯 Services & Expertise
-
-<div align="center">
-
-| Service | Deliverables | Typical Timeline |
-|---------|-------------|------------------|
-| ** Tag Management** | GTM/Tealium setup, Data layer design, Event tracking | 1-2 weeks |
-| ** Analytics Configuration** | GA4/Firebase setup, Custom reporting, Audience building | 1-3 weeks |
-| ** Conversion Tracking** | E-commerce tracking, Lead tracking, Attribution models | 2-4 weeks |
-| ** Mobile Analytics** | SDK integration, App event tracking, User behavior analysis | 2-3 weeks |
-| ** Frontend Integration** | Custom JavaScript, HTML/CSS optimization, UX tracking | 1-2 weeks |
-| ** Optimization** | A/B testing, Funnel analysis, Performance monitoring | Ongoing |
-
-</div>
-
 
 ### 🏆 Credentials and Certifications
 <div align="center">
@@ -274,7 +261,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 ###  Get a Free Consultation
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
-  <h3 style="color: white; margin-bottom: 15px;">📊 Get Your Free Analytics Health Check</h3>
+  <h3 style="color: white; margin-bottom: 15px;"> Get Your Free Analytics Health Check</h3>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGbzk5FSw2pc66xEWmr78bl5d4bOi9Wj9YApt7CvrhP_K0ng/viewform?usp=dialog" target="_blank">
     <img src="https://img.shields.io/badge/🔍%20Get%20a%20Free%20Analytics%20Consultation%20→-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Get a Free Consultation" height="60"/>
   </a>

@@ -69,28 +69,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 ---
 
-## Measurement Framework Timeline
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Success Animation"/>
-</div>
-
-<br>
-
-<div align="center">
-
-| Phase | Duration | Key Activities | Deliverables |
-|-------|----------|----------------|--------------|
-|  **Discovery** | Day 1-3 | Current tracking setup audit<br>Goals & KPI alignment<br>Technical requirements | Analytics audit report<br>Project Timeline |
-|  **Implementation** | Day 3-10 | Tag setup & configuration<br>Data layer implementation guide <br>Event tracking setup | DataLayer Implementation Guide<br>Tags Configurations |
-|  **Testing & Validation** | Day 10 -13 | Data accuracy verification<br>Cross-platform testing<br> | Validation report<br>Training documentation |
-|  **Optimization & Handover** | Day 13-15 | Reports monitoring<br>Team training<br>Ongoing optimization | Training sessions<br> |
-
-</div>
-
-<br>
-
-### What You Get With Each Phase
+### Measurement & Analytics Phases
 
 <details>
 <summary><b> Phase 1: Discovery & Strategy</b></summary>
@@ -225,6 +204,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
   <img src="CAPI.jpg" alt="Conversion API Implementation" width="100%" style="max-width: 600px; border-radius: 8px; margin: 10px 0;"/>
   <p><em>Conversion API Implementation (CAPI)</em></p>
 </div>
+
 **Challenge → Solution → Result**
 
 <div align="center">

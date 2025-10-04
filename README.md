@@ -1,4 +1,4 @@
-# Data Analytics Consultant | Measurement & Growth Specialist
+# Data Analytics Consultant | Measurement Specialist
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Frontend+Developer" alt="Typing SVG" />

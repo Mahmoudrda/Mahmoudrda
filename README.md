@@ -240,19 +240,9 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 </div>
 
-###  Get a Free Consultation
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
-  <h3 style="color: white; margin-bottom: 15px;"> Get Your Free Analytics Health Check</h3>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGbzk5FSw2pc66xEWmr78bl5d4bOi9Wj9YApt7CvrhP_K0ng/viewform?usp=dialog" target="_blank">
-    <img src="https://img.shields.io/badge/🔍%20Get%20a%20Free%20Analytics%20Consultation%20→-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Get a Free Consultation" height="60"/>
-  </a>
-<br><br>
-  <small style="color: #e0e0e0;">
-    ✅ 5-minute form • ✅ Detailed report in 72hrs • ✅ Zero commitment • ✅ No access required
-  </small>
-</div>
 
-###  Or Connect Directly
+
+###  Let's Connect
 
 <a href="https://www.linkedin.com/in/mahmoud-reda-522aa1215/" target="_blank">
   <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="40"/>

@@ -244,7 +244,7 @@ I'm a **Data Analytics Consultant** specializing in helping businesses accuratel
 
 ###  Let's Connect
 
-<a href="https://www.linkedin.com/in/mahmoud-reda-522aa1215/" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-elrous/" target="_blank">
   <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="40"/>
 </a>
 &nbsp;&nbsp;

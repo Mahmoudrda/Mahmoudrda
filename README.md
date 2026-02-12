@@ -1,7 +1,7 @@
-# Data Analytics Consultant | Measurement Specialist
+# Data Analytics Consultant | Measurement Specialist | Goolge CLoud Associate Data Practitioner
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Firebase+%26+App+Measurement;Google+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Firebase+%26+App+Measurement;Google+Cloud+Associate+Data+Practitioner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/353807/google-cloud-run.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/375484/pubsub.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg" width="60" height="60" />
+  <img src="https://www.svgrepo.com/show/375413/dataflow.svg" width="60" height="60" />
 </div>
 
 <br>

@@ -68,10 +68,10 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 <br>
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/375389/bigquery.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/svg/353807/google-cloud-run" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/375432/pub-sub.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/375367/cloud-dataflow.svg" width="60" height="60" />
+  <img src="https://www.svgrepo.com/show/375551/bigquery.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353807/google-cloud-run.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/375484/pubsub.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg" width="60" height="60" />
 </div>
 
 <br>

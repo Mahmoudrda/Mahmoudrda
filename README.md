@@ -1,7 +1,7 @@
-# Data Analytics Consultant | Measurement Specialist | Goolge CLoud Associate Data Practitioner
+# Data Analytics Consultant | Goolge CLoud Associate Data Practitioner
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Firebase+%26+App+Measurement;Google+Cloud+Associate+Data+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics+Consultant;Tag+Management+Specialist;Conversion+Tracking+Expert;Firebase+%26+App+Measurement+Expert;Google+Cloud+Associate+Data+Practitioner" alt="Typing SVG" />
 </div>
 
 <div align="center">

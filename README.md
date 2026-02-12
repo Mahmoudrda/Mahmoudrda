@@ -16,7 +16,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 
 <div align="center">
 
-| 📊 50+ Enterprise Clients | 🏷️ 500+ Pixels Implemented | 🔗 50+ Conversion APIs | ⚙️ 10+ Audits Completed |
+|  50+ Enterprise Clients |  100+ Pixels Implemented |  50+ Conversion APIs |  10+ Tagging Audits Completed |
 |:---:|:---:|:---:|:---:|
 | Complex tagging ecosystems | Cross-platform ad tracking | Server-side CAPI integrations | 50+ issues identified per audit |
 
@@ -69,7 +69,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 
 <div align="center">
   <img src="https://www.svgrepo.com/show/375389/bigquery.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/375377/cloud-run.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/svg/353807/google-cloud-run" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/375432/pub-sub.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/375367/cloud-dataflow.svg" width="60" height="60" />
 </div>

@@ -12,7 +12,7 @@
 
 I'm a **Data Analytics Consultant** specializing in helping businesses accurately measure website and app interactions through tag management and cloud data solutions. I've delivered end-to-end tracking for **50+ enterprise clients**, managing setups with up to **200 tags per property**, and built automation tools that save **10+ hours per project**.
 
-I transform raw data into actionable insights — from implementing GA4 and Firebase SDK on iOS/Android apps to building real-time event pipelines on Google Cloud Platform.
+I transform raw data into actionable insights.  from implementing GTM/GA4 and Firebase SDK on iOS/Android apps to building real-time event pipelines on Google Cloud Platform.
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 
 <div align="center">
 
-| Tool | Primary Use Cases |
+| Tool | What Did I Use it For |
 |------|-------------------|
 | **Google Tag Manager** | Tag implementation, event tracking, conversion setup, custom templates |
 | **Tealium IQ** | Enterprise tag management, data layer optimization, audience building |
@@ -78,7 +78,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 
 <div align="center">
 
-| Service | Use Case |
+| Service | What Did I Use it For |
 |---------|----------|
 | **BigQuery** | Raw data warehousing, cross-platform analytics, Firebase SDK export analysis |
 | **Cloud Run** | Serverless server-side tagging, event ingestion backends |
@@ -102,7 +102,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 
 **Skills:** Custom event handling, DOM manipulation, API integrations, performance optimization, Google Apps Script automation
 
-**Impact:** Built 3 automation tools and 1 reusable GTM template that collectively save **10+ hours per project** — adopted team-wide for standardized deployments
+**Impact:** Built 3 automation tools and 1 reusable GTM template that collectively save **10+ hours per project**. adopted team-wide for standardized deployments
 
 </details>
 
@@ -114,7 +114,7 @@ I transform raw data into actionable insights — from implementing GA4 and Fire
 <summary><b>Phase 1: Discovery & Strategy</b></summary>
 <br>
 
-- **Current Tracking Setup Assessment**: Complete audit of existing tracking — 10+ audits delivered, each identifying 50+ issues
+- **Current Tracking Setup Assessment**: Complete audit of existing tracking 10+ audits delivered, each identifying 50+ issues
 - **Gap Analysis**: Identification of missing data points across web and app
 - **KPI Mapping**: Alignment with business objectives
 - **Technical Specification**: Detailed implementation plan

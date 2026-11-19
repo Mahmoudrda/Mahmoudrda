@@ -1,14 +1,14 @@
 <!--
-  GitHub profile README, updated October 2026.
+  GitHub profile README, updated November 2026.
   The GitHub Activity section near the bottom is hidden until you add your GitHub username (see the note there).
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:1F6FEB&height=210&section=header&text=Mahmoud%20Reda&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Engineering%20%E2%80%A2%20Measurement%20%E2%80%A2%20Infrastructure&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Mahmoud Reda. Data Engineering, Measurement, Infrastructure"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:1F6FEB&height=210&section=header&text=Mahmoud%20Reda&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Marketing%20Technology%20%E2%80%A2%20Measurement%20%E2%80%A2%20Data%20Engineering&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Mahmoud Reda. Marketing Technology, Measurement, Data Engineering"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Data+%26+Analytics+Consultant+%40+Merkle+%28dentsu%29;Server-side+Tracking+%26+Conversion+APIs;GCP+Pipelines%3A+Pub%2FSub+%C2%B7+Dataflow+%C2%B7+BigQuery;Infrastructure%2C+CI%2FCD+%26+AI+Automation;Google+Cloud+Associate+Data+Practitioner" alt="Data and Analytics Consultant at Merkle (dentsu). Server-side tracking, GCP pipelines, infrastructure, CI/CD and AI automation."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Marketing+Technology+%C2%B7+Measurement+%C2%B7+Attribution;Data+%26+Analytics+Consultant+%40+Merkle+%28dentsu%29;GA4+%C2%B7+GTM+%C2%B7+Server-side+Tracking+%C2%B7+Conversion+APIs;Mobile+Attribution%3A+Adjust+%C2%B7+AppsFlyer+%C2%B7+SKAN;CRO%2C+A%2FB+Testing+%26+Real-time+Campaign+Optimization;GCP+Pipelines%3A+Pub%2FSub+%C2%B7+Dataflow+%C2%B7+BigQuery" alt="Marketing technology, measurement and attribution. Data and Analytics Consultant at Merkle (dentsu). GA4, GTM, server-side tracking, mobile attribution, CRO and GCP pipelines."/>
 </div>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ## About
 
-I build measurement and data infrastructure that teams can trust. As a **Data & Analytics Consultant at Merkle (dentsu)**, I design end-to-end tracking for enterprise clients across web and mobile: data layers, server-side tagging, Conversion APIs, mobile attribution, BigQuery pipelines, and the dashboards on top. I've delivered this for **50+ enterprise clients**, with setups of up to **200 tags per property**.
+I work in marketing technology: the tracking, attribution and data pipelines that show a marketing team what its budget is doing. As a **Data & Analytics Consultant at Merkle (dentsu)**, I design end-to-end tracking for enterprise clients across web and mobile: data layers, server-side tagging, Conversion APIs, mobile attribution, BigQuery pipelines, and the dashboards on top. I've delivered this for **50+ enterprise clients**, with setups of up to **200 tags per property**.
 
-Since **April 2026** I've also owned the technical infrastructure at **The Reel Recipe** as Innovation Manager (tech lead), running the stack, deployments, CI/CD, and a 5-person tech team. As co-founder and CTO of **Rewired**, I lead the architecture behind Reivo, Click, and Rawaj.
+Since **March 2026** I've also run marketing technology at **The Reel Recipe** as Innovation Manager. I lead a 5-person tech team, direct the media buyers and content creators, and own the ad data pipelines, live dashboards, real-time optimization and CRO behind **\$50K+ of monthly ad spend**, along with the stack and CI/CD underneath. As co-founder and CTO of **Rewired**, I lead the architecture behind Reivo, Click, and Rawaj.
 
 <div align="center">
 <table>
@@ -45,9 +45,9 @@ Since **April 2026** I've also owned the technical infrastructure at **The Reel 
     </td>
     <td width="33%" valign="top">
       <b>The Reel Recipe</b><br/>
-      <sub>Innovation Manager (tech lead) · since April 2026</sub>
+      <sub>Innovation Manager · since March 2026</sub>
       <br/><br/>
-      Own the technical infrastructure, deployments, and CI/CD, and lead a 5-person tech team.
+      Run marketing technology for the agency: ad data pipelines, live dashboards, real-time optimization and CRO, with a 5-person tech team.
       <br/><br/>
       <img src="https://cdn.simpleicons.org/airtable" height="20" alt="Airtable"/>&nbsp;
       <img src="https://cdn.simpleicons.org/cloudflare" height="20" alt="Cloudflare"/>&nbsp;
@@ -87,11 +87,11 @@ Since **April 2026** I've also owned the technical infrastructure at **The Reel 
     <td align="center"><h3>16 days</h3><sub>of lost data traced to an expired TLS certificate</sub></td>
     <td align="center"><h3>10+ hrs</h3><sub>saved per project through GTM and GA4 API automation</sub></td>
   </tr>
-  <tr><th colspan="4" align="left">Infrastructure and leadership</th></tr>
+  <tr><th colspan="4" align="left">Marketing technology and leadership</th></tr>
   <tr>
     <td align="center"><h3>5</h3><sub>people on the tech team I lead</sub></td>
-    <td align="center"><h3>7</h3><sub>production Airtable bases in the stack I run</sub></td>
-    <td align="center"><h3>3</h3><sub>products built at Rewired</sub></td>
+    <td align="center"><h3>&#36;50K+</h3><sub>monthly ad spend on the pipelines and dashboards I run</sub></td>
+    <td align="center"><h3>248</h3><sub>automated tracking checks in my audit tool</sub></td>
     <td align="center"><h3>24</h3><sub>MCP tools that let AI agents work in customer data</sub></td>
   </tr>
 </table>
@@ -229,11 +229,15 @@ flowchart LR
 
 <p align="center"><sub>Incident trace from the public sector engagement, from silent failure to root cause and runbook.</sub></p>
 
-## Infrastructure and Engineering Leadership · The Reel Recipe
+## Marketing Technology and Team Leadership · The Reel Recipe
 
-<sub>Innovation Manager (tech lead) · since April 2026</sub>
+<sub>Innovation Manager · since March 2026</sub>
 
 <p>
+  <img src="https://img.shields.io/badge/Meta_Ads-0B1F3A?style=for-the-badge&logo=meta&logoColor=0081FB" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/TikTok_Ads-0B1F3A?style=for-the-badge&logo=tiktok&logoColor=FE2C55" alt="TikTok Ads"/>
+  <img src="https://img.shields.io/badge/Google_Ads-0B1F3A?style=for-the-badge&logo=googleads&logoColor=4285F4" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-0B1F3A?style=for-the-badge&logo=looker&logoColor=4285F4" alt="Looker Studio"/>
   <img src="https://img.shields.io/badge/Airtable-0B1F3A?style=for-the-badge&logo=airtable&logoColor=18BFFF" alt="Airtable"/>
   <img src="https://img.shields.io/badge/Cloudflare-0B1F3A?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Supabase-0B1F3A?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
@@ -243,6 +247,26 @@ flowchart LR
 </p>
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://cdn.simpleicons.org/meta" height="22" alt="Meta"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/tiktok/FE2C55" height="22" alt="TikTok"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/googleads" height="22" alt="Google Ads"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/looker" height="22" alt="Looker Studio"/>
+      <br/><br/>
+      <b>Ad data pipelines and live dashboards</b>
+      <br/><br/>
+      Automated pipelines pull Meta, TikTok and Google Ads data into one reporting dataset. Media buyers, management and clients read the same live dashboards, covering &#36;50K+ of monthly ad spend.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://cdn.simpleicons.org/googletagmanager" height="22" alt="Google Tag Manager"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/googleanalytics" height="22" alt="Google Analytics"/>
+      <br/><br/>
+      <b>Real-time optimization and CRO</b>
+      <br/><br/>
+      Automated alerts and rules flag or adjust budgets and creatives as performance data arrives. On the site side, I run funnel and landing page audits, then A/B tests on a testing platform or custom GTM builds.
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="https://cdn.simpleicons.org/airtable" height="22" alt="Airtable"/>&nbsp;
@@ -271,7 +295,7 @@ flowchart LR
       <br/><br/>
       <b>Team leadership and collaboration</b>
       <br/><br/>
-      I lead a 5-person tech team. Work runs as tickets and sprints, code lives in a company GitHub organization, and changes ship through pull request review instead of straight to main. New team members ship a first solo task within 5 working days.
+      I lead a 5-person tech team and direct the media buyers and content creators who use what we build. Work runs as tickets and sprints, code lives in a company GitHub organization, and changes ship through pull request review instead of straight to main. New team members ship a first solo task within 5 working days.
     </td>
     <td valign="top">
       <img src="https://cdn.simpleicons.org/n8n" height="22" alt="n8n"/>&nbsp;
@@ -344,6 +368,56 @@ As co-founder and CTO of **Rewired**, I lead architecture and engineering for Re
 </div>
 
 ## Selected Projects
+
+### Measurement Automation
+<sub>Internal marketing technology tool · formerly MarTech Architect · private repository</sub>
+
+<p>
+  <img src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" height="24" alt="Google Tag Manager"/>&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353804/google-analytics.svg" height="24" alt="Google Analytics 4"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/meta" height="24" alt="Meta"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" height="24" alt="TikTok"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleads" height="24" alt="Google Ads"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" height="24" alt="Google Cloud"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" height="24" alt="Claude"/>
+</p>
+
+A desktop and web app that audits how a website tracks its visitors (GA4, Google Tag Manager, ad pixels and cookie consent), writes the client documents, and can set up the fix in Tag Manager and GA4.
+
+```mermaid
+flowchart LR
+    SC["1. Scope<br/>statement of work"] --> AU["2. Audit<br/>248 checks: GA4, GTM,<br/>ad pixels, consent"]
+    AU --> SD["3. Solution design<br/>tracking specification"]
+    SD --> IG["4. Implementation<br/>developer guide and<br/>GTM and GA4 build"]
+    IG --> VA["5. Validation<br/>QA workbook"]
+    classDef default fill:#0B1F3A,stroke:#2F81F7,stroke-width:1px,color:#FFFFFF
+    classDef key fill:#1F6FEB,stroke:#1F6FEB,stroke-width:1px,color:#FFFFFF
+    class AU key
+    linkStyle default stroke:#2F81F7,stroke-width:1.5px
+```
+
+<div align="center">
+
+| Challenge | Solution | Result |
+|-----------|----------|---------|
+| A full tracking audit took about a week of manual checking | A scan in real Chrome across three cookie consent choices, plus GA4 and Tag Manager audits through their APIs | 248 rule-based checks across 40+ ad and analytics vendors, ranked on one findings board with evidence |
+| Client documents were written by hand after every audit | Word, PowerPoint and Excel writers filled from the scan | Statement of work, audit deck, tracking specification, developer guide and QA workbook from one project |
+| Fixes were rebuilt by hand in GTM and GA4 | A build step that writes a new Tag Manager workspace and GA4 definitions from the approved plan | The fix arrives ready for review and is never published automatically |
+| AI can't be trusted to decide what is broken | Rules decide every finding. AI is optional and only adds wording | The same site always gives the same result, and personal data is masked before any AI call |
+
+</div>
+
+<details>
+<summary><b>Technical implementation details</b></summary>
+<br>
+
+- **Two versions**: an Electron desktop app for one consultant, and a web version on Docker or Google Cloud behind company sign-in for a team of 10 to 20
+- **Capture**: Playwright drives real Chrome, and a recorder extension shows the tracking live as you click through a journey
+- **Investigate a problem**: 18 common GA4 problems, each traced to its cause
+- **Safety**: scans never pay, sign in or submit checkout forms, and Google access is read-only until you choose to build
+- **Tests**: about 2,500 unit tests, an end-to-end run in real Chrome, and golden checks on saved scans
+
+</details>
 
 ### Real-Time Event Streaming Pipeline
 <sub>Personal GCP project</sub>
@@ -633,6 +707,7 @@ flowchart LR
   <img src="https://cdn.simpleicons.org/android" width="44" height="44" alt="Android"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Adjust-0B1F3A?style=for-the-badge" alt="Adjust"/>
+  <img src="https://img.shields.io/badge/AppsFlyer-0B1F3A?style=for-the-badge" alt="AppsFlyer"/>
   <img src="https://img.shields.io/badge/Amplitude-0B1F3A?style=for-the-badge" alt="Amplitude"/>
 </div>
 
@@ -647,9 +722,11 @@ flowchart LR
 | **Google Analytics 4** | E-commerce and cross-domain tracking, custom definitions, governance audits |
 | **Firebase Analytics SDK** | iOS and Android analytics, user properties, BigQuery export |
 | **Adjust** | Mobile attribution, SKAN 4.0 conversion schemas, media partner linking |
+| **AppsFlyer** | MMP SDK traffic decoding and event QA in my app tracking tool |
 | **Meta, TikTok, Google Ads** | Pixels and server-side Conversion APIs |
 | **Shopify and Drupal** | Multi-store GA4 reconciliation, checkout stitching, and booking-flow ecommerce tracking |
 | **Hotjar** | Heatmaps, session recordings, conversion funnel analysis |
+| **A/B testing and CRO** | Funnel and landing page audits, experiments on testing platforms and custom GTM builds |
 | **Google Search Console** | SEO performance tracking, search analytics |
 
 </div>

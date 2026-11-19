@@ -26,7 +26,7 @@
 
 I work in marketing technology: the tracking, attribution and data pipelines that show a marketing team what its budget is doing. As a **Data & Analytics Consultant at Merkle (dentsu)**, I design end-to-end tracking for enterprise clients across web and mobile: data layers, server-side tagging, Conversion APIs, mobile attribution, BigQuery pipelines, and the dashboards on top. I've delivered this for **50+ enterprise clients**, with setups of up to **200 tags per property**.
 
-Since **March 2026** I've also run marketing technology at **The Reel Recipe** as Innovation Manager. I lead a 5-person tech team, direct the media buyers and content creators, and own the ad data pipelines, live dashboards, real-time optimization and CRO behind **\$50K+ of monthly ad spend**, along with the stack and CI/CD underneath. As co-founder and CTO of **Rewired**, I lead the architecture behind Reivo, Click, and Rawaj.
+Since **March 2026** I've also run marketing technology at **The Reel Recipe** as Innovation Manager. I lead a 5-person tech team, direct the media buyers and content creators, and own the ad data pipelines, live dashboards, real-time optimization and CRO, along with the stack and CI/CD underneath. As co-founder and CTO of **Rewired**, I lead the architecture behind Reivo, Click, and Rawaj.
 
 <div align="center">
 <table>
@@ -90,7 +90,7 @@ Since **March 2026** I've also run marketing technology at **The Reel Recipe** a
   <tr><th colspan="4" align="left">Marketing technology and leadership</th></tr>
   <tr>
     <td align="center"><h3>5</h3><sub>people on the tech team I lead</sub></td>
-    <td align="center"><h3>&#36;50K+</h3><sub>monthly ad spend on the pipelines and dashboards I run</sub></td>
+    <td align="center"><h3>500+</h3><sub>ad pixels implemented across client sites</sub></td>
     <td align="center"><h3>248</h3><sub>automated tracking checks in my audit tool</sub></td>
     <td align="center"><h3>24</h3><sub>MCP tools that let AI agents work in customer data</sub></td>
   </tr>
@@ -256,7 +256,7 @@ flowchart LR
       <br/><br/>
       <b>Ad data pipelines and live dashboards</b>
       <br/><br/>
-      Automated pipelines pull Meta, TikTok and Google Ads data into one reporting dataset. Media buyers, management and clients read the same live dashboards, covering &#36;50K+ of monthly ad spend.
+      Automated pipelines pull Meta, TikTok and Google Ads data into one reporting dataset. Media buyers, management and clients read the same live dashboards.
     </td>
     <td width="50%" valign="top">
       <img src="https://cdn.simpleicons.org/googletagmanager" height="22" alt="Google Tag Manager"/>&nbsp;

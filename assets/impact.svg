@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" role="img" aria-labelledby="t d">
+  <title id="t">Impact at a glance</title>
+  <desc id="d">50+ enterprise clients tracked end to end; 500+ advertising pixels implemented; 50+ server-side Conversion API integrations; 2–5% cross-platform discrepancy after server-side tracking; 10+ tracking audits, 50+ issues found in each; 7 GA4 properties reconciled across 4 Shopify stores; 16 days of lost data traced to its root cause; 5 people on the tech team I lead.</desc>
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .tile { fill: #0B1F3A; stroke: #1F6FEB; stroke-width: 1.2; }
+    .num { font-size: 30px; font-weight: 700; fill: #FFFFFF; }
+    .lab { font-size: 12.5px; fill: #C3D3E8; }
+    .bar { fill: #2F81F7; transform-box: fill-box; transform-origin: center; transform: scaleX(0.3); animation: grow 2.8s ease-in-out infinite; }
+    @keyframes grow { 0%, 100% { transform: scaleX(0.3); } 50% { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .bar { animation: none; transform: scaleX(1); } }
+  </style>
+  <rect class="tile" x="10" y="10" width="220" height="105" rx="10"/>
+  <text class="num" x="120" y="52">50+</text>
+  <rect class="bar" x="70" y="62" width="100" height="3" rx="1.5" style="animation-delay:0.00s"/>
+  <text class="lab" x="120" y="84">enterprise clients</text>
+  <text class="lab" x="120" y="101">tracked end to end</text>
+  <rect class="tile" x="250" y="10" width="220" height="105" rx="10"/>
+  <text class="num" x="360" y="52">500+</text>
+  <rect class="bar" x="310" y="62" width="100" height="3" rx="1.5" style="animation-delay:0.35s"/>
+  <text class="lab" x="360" y="84">advertising pixels</text>
+  <text class="lab" x="360" y="101">implemented</text>
+  <rect class="tile" x="490" y="10" width="220" height="105" rx="10"/>
+  <text class="num" x="600" y="52">50+</text>
+  <rect class="bar" x="550" y="62" width="100" height="3" rx="1.5" style="animation-delay:0.70s"/>
+  <text class="lab" x="600" y="84">server-side Conversion</text>
+  <text class="lab" x="600" y="101">API integrations</text>
+  <rect class="tile" x="730" y="10" width="220" height="105" rx="10"/>
+  <text class="num" x="840" y="52">2–5%</text>
+  <rect class="bar" x="790" y="62" width="100" height="3" rx="1.5" style="animation-delay:1.05s"/>
+  <text class="lab" x="840" y="84">cross-platform discrepancy</text>
+  <text class="lab" x="840" y="101">after server-side tracking</text>
+  <rect class="tile" x="10" y="135" width="220" height="105" rx="10"/>
+  <text class="num" x="120" y="177">10+</text>
+  <rect class="bar" x="70" y="187" width="100" height="3" rx="1.5" style="animation-delay:1.40s"/>
+  <text class="lab" x="120" y="209">tracking audits,</text>
+  <text class="lab" x="120" y="226">50+ issues found in each</text>
+  <rect class="tile" x="250" y="135" width="220" height="105" rx="10"/>
+  <text class="num" x="360" y="177">7</text>
+  <rect class="bar" x="310" y="187" width="100" height="3" rx="1.5" style="animation-delay:1.75s"/>
+  <text class="lab" x="360" y="209">GA4 properties reconciled</text>
+  <text class="lab" x="360" y="226">across 4 Shopify stores</text>
+  <rect class="tile" x="490" y="135" width="220" height="105" rx="10"/>
+  <text class="num" x="600" y="177">16 days</text>
+  <rect class="bar" x="550" y="187" width="100" height="3" rx="1.5" style="animation-delay:2.10s"/>
+  <text class="lab" x="600" y="209">of lost data traced</text>
+  <text class="lab" x="600" y="226">to its root cause</text>
+  <rect class="tile" x="730" y="135" width="220" height="105" rx="10"/>
+  <text class="num" x="840" y="177">5</text>
+  <rect class="bar" x="790" y="187" width="100" height="3" rx="1.5" style="animation-delay:2.45s"/>
+  <text class="lab" x="840" y="209">people on the tech team</text>
+  <text class="lab" x="840" y="226">I lead</text>
+</svg>

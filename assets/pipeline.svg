@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 215" role="img" aria-labelledby="t d">
+  <title id="t">How the data flows</title>
+  <desc id="d">Five stages from left to right: sources, collection, server side, activation, and warehouse. Dots move along the arrows between them.</desc>
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 3px; fill: #8FB8FF; }
+    .head { font-size: 15px; font-weight: 700; fill: #FFFFFF; }
+    .line { font-size: 12.5px; fill: #C3D3E8; }
+    .box { fill: #102B4E; stroke: #2F81F7; stroke-width: 1.2; }
+    .key { fill: #1F6FEB; stroke: #58A6FF; animation: pulse 2.8s ease-in-out infinite; }
+    .flow { stroke: #2F81F7; stroke-width: 2; stroke-dasharray: 5 5; animation: dash 0.9s linear infinite; }
+    .tip { fill: #2F81F7; }
+    .dot { fill: #9CCBFF; }
+    @keyframes dash { to { stroke-dashoffset: -10; } }
+    @keyframes pulse { 0%, 100% { stroke-width: 1.2; } 50% { stroke-width: 4; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .key { animation: none; }
+      .dot { display: none; }
+    }
+  </style>
+
+  <rect width="960" height="215" rx="14" fill="#0B1F3A"/>
+  <text class="eyebrow" x="480" y="40">FROM THE FIRST EVENT TO THE WAREHOUSE</text>
+
+  <!-- connectors: dashed line, arrow tip, travelling dot -->
+  <g>
+    <line class="flow" x1="165" y1="125" x2="202" y2="125"/><polygon class="tip" points="202,120 210,125 202,130"/>
+    <line class="flow" x1="360" y1="125" x2="397" y2="125"/><polygon class="tip" points="397,120 405,125 397,130"/>
+    <line class="flow" x1="555" y1="125" x2="592" y2="125"/><polygon class="tip" points="592,120 600,125 592,130"/>
+    <line class="flow" x1="750" y1="125" x2="787" y2="125"/><polygon class="tip" points="787,120 795,125 787,130"/>
+    <circle class="dot" r="4"><animateMotion dur="1.6s" begin="0s" repeatCount="indefinite" path="M165 125 H205"/></circle>
+    <circle class="dot" r="4"><animateMotion dur="1.6s" begin="-1.2s" repeatCount="indefinite" path="M360 125 H400"/></circle>
+    <circle class="dot" r="4"><animateMotion dur="1.6s" begin="-0.8s" repeatCount="indefinite" path="M555 125 H595"/></circle>
+    <circle class="dot" r="4"><animateMotion dur="1.6s" begin="-0.4s" repeatCount="indefinite" path="M750 125 H790"/></circle>
+  </g>
+
+  <rect class="box" x="15" y="70" width="150" height="110" rx="10"/>
+  <text class="head" x="90" y="98">Sources</text>
+  <text class="line" x="90" y="124">Websites</text>
+  <text class="line" x="90" y="143">iOS apps</text>
+  <text class="line" x="90" y="162">Android apps</text>
+
+  <rect class="box" x="210" y="70" width="150" height="110" rx="10"/>
+  <text class="head" x="285" y="98">Collection</text>
+  <text class="line" x="285" y="124">GTM · Tealium</text>
+  <text class="line" x="285" y="143">Data layers</text>
+  <text class="line" x="285" y="162">Firebase · MMP SDKs</text>
+
+  <rect class="box key" x="405" y="70" width="150" height="110" rx="10"/>
+  <text class="head" x="480" y="98">Server side</text>
+  <text class="line" x="480" y="124" fill="#FFFFFF">Server-side GTM</text>
+  <text class="line" x="480" y="143" fill="#FFFFFF">Event streaming</text>
+  <text class="line" x="480" y="162" fill="#FFFFFF">on Google Cloud</text>
+
+  <rect class="box" x="600" y="70" width="150" height="110" rx="10"/>
+  <text class="head" x="675" y="98">Activation</text>
+  <text class="line" x="675" y="124">GA4</text>
+  <text class="line" x="675" y="143">Conversion APIs</text>
+  <text class="line" x="675" y="162">Ad networks · SKAN</text>
+
+  <rect class="box" x="795" y="70" width="150" height="110" rx="10"/>
+  <text class="head" x="870" y="98">Warehouse</text>
+  <text class="line" x="870" y="124">BigQuery</text>
+  <text class="line" x="870" y="143">Looker Studio</text>
+  <text class="line" x="870" y="162">Dashboards</text>
+</svg>
